@@ -1,0 +1,108 @@
+
+<!DOCTYPE html>
+<html>
+     <head>
+	 
+	         <title> isiaka fuel station homepage</title>
+			 <meta name="description" content="the isiaka fuel station is the best fuel station in the world">
+			 <link rel="stylesheet"href="style.css">
+
+    
+	</head>
+	 
+   <body>
+               <img src="logo.PNG" height="200%" weight="122%" align="center">
+			   
+			   
+               <h1 style="color:red;">ISIAKA FUEL STATION  </h1>
+			   <marquee scrollamount="10"style="color:blue;" >
+			   WELCOME TO ISIAKA FUEL STATION</marquee>
+			   <button style="color:blue;">about us </button>
+			   <button style="color:red;">history</button>
+			   <ol>
+			   <img src="pic1.png height="20" weight="20>
+			   <img src="pic2.png height="20" weight="20>
+			   <img src="pic3.png height="20" weight="20>
+      <li>crude oil (used to produce fuel) was formed</li>
+      <li>millions of years ago from <br>dead plants and animals.</li>
+      <li>refining process  to turn <br>crude oil into usable fuel</li>
+      <li>(like petrol or diesel), it heated in a refinery</li>
+ </ol>
+			   <button style="color:blue;">e-mail us </button>
+			   <button style="color:blue;">phone number</button>
+			   <button style="color:red;">password</button>
+	            <section>
+			       <style>
+				   body{
+				   background-color:red;
+				   }
+				   h1{
+				   color:white,
+				   text align:center;
+				   }
+				   p{
+				   
+				   font family:verdana;
+				   </style>
+				   
+				   
+                   <h2 style="color:blue;">Deliciousness in every car!</h2>"ISIAKA FUEL STATION presents 
+                   premium Engine Oil-trusted by machanics, loved by engins" 
+                   <p style="color:green;"><u>every</u> fuel made at the isiaka fuel station is crafted with only the finest
+                  ingredients. engine oil (motor oil), gearoil, diesel oil, generator oil</p>
+                   <p> crude oil is our passion and we take it very seriously.</p>
+         </section>
+		 <title>APPLICATION FORM</title>
+		 <form>
+		   <label style="color:blue;">name:</label>
+		<input type="text"><br><br>
+
+        <input type="submit" value="submit"style="color:blue;">
+        </form>
+        <button style="color:blue;">like</button>		
+         <a href="fuels and engine.html"><u>learn</u> how to make our chip fuel</a>
+
+         <p><audio src="ISI.M4a" controls type="audio/mp3"></audio></p>
+         <p><video src="MP4.EMP4" Controls type="video/mp4" width="480"></video></p>
+</body>
+</html>
+
+
+<p>
+ <table border="1">
+        <tr style="color:red;">
+		      <th>fuel type<th>
+			  <th>price</th>
+	  </tr>
+	  <tr>
+	        <td>fuel chip</td>
+			<td>&#8358;800-1,000</td>
+	  </tr>
+	    <style>
+				   body{
+				   background-color:pink;
+				   }
+				   h1{
+				   color:white,
+				   text align:center;
+				   }
+				   p{
+				   
+				   font family:verdana;
+				   </style>
+	  	  <tr dstyle="color:blue;">
+	        <td>datmeal raising</td>
+			<td>&#8358;</td>
+	  </tr>
+</table>
+</p>
+<form style="color:blue;">
+   <label style="color:red;">fuel type</label>
+   <input name="fuel type"><br>
+   <input style="color:blue;">quantity</label>
+   <input name="quantity"></br>
+   <label style="color:green;">delivery date</label>
+   <input name="date" type="date"><br>
+   <button style="color:red;">order</button>
+ </form>
+ 
